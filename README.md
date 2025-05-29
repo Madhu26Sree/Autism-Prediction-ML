@@ -15,3 +15,8 @@ and LightGBM were applied. Along with that, DL  models like LSTM and BiLSTM were
 used to improve the performance. The unique part of this work is that it combines both 
 traditional ML models with DL models for better accuracy. After analyzing the models based 
 on accuracy, precision and F1-score, it was found that BiLSTM gave the most accurate results.
+
+**COMPARISON OF ACCURACY**
+
+![Accuracy comparison](https://github.com/user-attachments/assets/28c2d9e9-06f2-4fb4-9b1a-d135d06ffcd2)
+
