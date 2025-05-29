@@ -1,4 +1,5 @@
 **ABSTRACT **
+
 Autism Spectrum Syndrome (ASS) is basically a type of developmental disorder where a person 
 faces challenges in social communication, interacting with others, and often shows repeated or 
 fixed patterns in their behavior, interests, or daily activities. But early diagnosis is super 
